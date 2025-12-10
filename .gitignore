@@ -1,0 +1,23 @@
+# Archivos compilados de MetaTrader
+*.ex5
+*.ex4
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.dat
+
+# Configuraciones locales
+*.ini
+*.set
+
+# Directorios de MetaTrader
+MQL5/Tester/
+MQL5/Files/
+MQL5/Logs/
+MQL5/Temp/
+
+# IDE específico
+.vscode/
+.idea/
+*.swp
